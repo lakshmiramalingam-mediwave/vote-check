@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  background-image: url('https://eadn-wc03-10420527.nxedge.io/wp-content/uploads/2020/08/Women-Vote.jpg');
+   background-color:white; 
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  .container {
+    background-color: white;
+    justify-content: center;
+    padding: auto;
+    border-radius: 1px;
+    text-align: center;
+  }
+  button {
+    margin-top: 10px;
+  }
+  #result {
+    margin-top: 30px;
+    font-weight: bold;
+  }
